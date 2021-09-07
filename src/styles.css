@@ -1,0 +1,9 @@
+/* Add application styles & imports to this file! */
+li  {
+  display: block;
+  transition-duration: 0.5s;
+}
+
+li:hover {
+  cursor: pointer;
+}
